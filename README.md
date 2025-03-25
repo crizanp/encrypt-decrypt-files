@@ -1,2 +1,5 @@
-# encrypt-decrypt-files
-Encrypt and Decrypt your all kinds of files in one place 
+<<<<<<< HEAD
+(your local changes)
+=======
+(the remote repository changes)
+>>>>>>> ac5dcf6 (commit hash)
